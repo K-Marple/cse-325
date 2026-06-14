@@ -1,0 +1,15 @@
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\inser\OneDrive\Documents\K School\26 SP\CSE325\hello-world\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
